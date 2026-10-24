@@ -1,6 +1,6 @@
 # Mitchel German
 
-Software engineer in Atlanta. Self-taught. I build web apps that track real processes: legal timelines, forms, and small products shipped end to end.
+Software engineer in Atlanta. I build web apps that track real processes: legal timelines, forms, and small products shipped end to end.
 
 Middle Georgia State, 2026. Open to work.
 
